@@ -2,8 +2,6 @@
   <img src="valerienguyen.svg" width="1200" alt="valerienguyen" />
 </a>
 
-<h2> Hello World! I'm Valerie Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
 <h3>🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Sophomore at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
@@ -22,6 +20,19 @@ const valerie = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<h2> Where to find me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<br>
+<div>
+  <a href="https://github.com/valerienguyen169" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="valerienguyen-github" />
+  </a>
+  <a href="https://www.linkedin.com/in/valerienguyen169/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="valerienguyen-linkedin" />
+  </a>
+  <a href="mailto:valerienguyen169@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="valerienguyen-email" />
+  </a>
+</div>
 ---
 
 <br>
