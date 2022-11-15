@@ -1,3 +1,6 @@
+<a href="#" target="_blank">
+  <img src="valerienguyen.svg" width="1200" alt="valerienguyen" />
+</a>
 
 <h2> Hello World! I'm Valerie Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
