@@ -1,5 +1,5 @@
 
-<h2> Hello World! I'm Valerie Nguyen <iframe src="https://giphy.com/embed/mGcNjsfWAjY5AEZNw6" width="50"></iframe></h2>
+<h2> Hello World! I'm Valerie Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3><img src="https://giphy.com/embed/WUlplcMpOCEmTGBtBW" width="30"> 🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA <img src="https://giphy.com/embed/WUlplcMpOCEmTGBtBW" width="30"></h3>
 <img align='right' src="https://giphy.com/embed/ieyl9zmCjO4b4t6qoY" width="230">
