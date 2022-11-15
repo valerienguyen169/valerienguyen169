@@ -1,7 +1,7 @@
 
 <h2> Hello World! I'm Valerie Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3>🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Sophomore at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
