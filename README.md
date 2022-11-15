@@ -2,7 +2,8 @@
   <img src="valerienguyen.svg" width="1200" alt="valerienguyen" />
 </a>
 
-<h3>🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA</h3>
+<h1>🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA</h3>
+<br>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Sophomore at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
