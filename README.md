@@ -1,12 +1,12 @@
 
 <h2> Hello World! I'm Valerie Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h3><img src="https://giphy.com/embed/WUlplcMpOCEmTGBtBW" width="30"> 🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA <img src="https://giphy.com/embed/WUlplcMpOCEmTGBtBW" width="30"></h3>
-<img align='right' src="https://giphy.com/embed/ieyl9zmCjO4b4t6qoY" width="230">
-<p><em>Sophomore at <a href="https://www.astate.edu/">Arkansas State University</a><img src="https://giphy.com/embed/fYSnHlufseco8Fh93Z" width="30"></em></p>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Sophomore at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
-### <img src="https://giphy.com/embed/VgCDAzcKvsR6OM0uWg" width="50"> A little more about me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const valerie = {
@@ -17,7 +17,7 @@ const valerie = {
 }
 ```
 
-<img src="https://giphy.com/embed/LnQjpWaON8nhr21vNW" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
