@@ -4,7 +4,7 @@
 
 <h1>👩‍💻 Valerie Nguyen | 💻 Software Engineer | 🛸 Vietnam , USA</h3>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Junior at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Senior at <a href="https://www.astate.edu/">Arkansas State University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -13,7 +13,8 @@
 const valerie = {
   pronouns: "she" | "her",
   code: [C/C++, Javascript, HTML, CSS, Python, Java, C#, PHP, SQL],
-  tools: [Bootstrap, MySQL, Visual Studio Code, Eclipse, Git],
+  tools: [MySQL, Visual Studio Code, Eclipse, Git, Firebase, Figma, Sketch, MS Office],
+  framework: [Bootstrap, Vue, React, Express],
   challenge: "I am doing the #100DaysOfCode challenge focused on Java"
 }
 ```
